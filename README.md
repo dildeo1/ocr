@@ -49,7 +49,9 @@ Let’s start with extracting text from a single image using Python.
 For this example, we will work with the first image provided in the previous section: sampletext1-ocr.png
 
 Here is how the structure of my files look like:
-[alt text](https://github.com/dildeo1/ocr/blob/dev/miniproject/image-10.webp)
+
+
+![alt text](https://github.com/dildeo1/ocr/blob/dev/miniproject/image-10.webp)
 
 Now we have everything we need and can easily extract text from image using Python:
 
